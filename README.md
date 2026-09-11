@@ -11,7 +11,7 @@ A simple web application to manage student records.
 HTML, CSS, JavaScript, Python, FastAPI, Supabase
 
 ## Live Demo
-🌐 [Frontend]   https://student-management-system-jtv2mggqi-vaibhavi1612005-7662.vercel.app/
+🌐 [Frontend]   https://student-management-system-jet-chi.vercel.app/
 
 ⚙️ [Backend API]    https://student-management-system-5-lopi.onrender.com/students
 
