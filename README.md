@@ -13,7 +13,8 @@ HTML, CSS, JavaScript, Python, FastAPI, Supabase
 ## Live Demo
 🌐 [Frontend]   https://student-management-system-jtv2mggqi-vaibhavi1612005-7662.vercel.app/
 
-⚙️ [Backend API]    
+⚙️ [Backend API]    https://student-management-system-5-lopi.onrender.com/students
+
 
 ## Author
 **Vaibhavi Chavan**
