@@ -2,7 +2,7 @@
 // BACKEND API URL
 // ============================================================
 
-const API_URL = "http://127.0.0.1:8000/students";
+const API_URL = "https://student-management-system-5-lopi.onrender.com/";
 
 
 // ============================================================
